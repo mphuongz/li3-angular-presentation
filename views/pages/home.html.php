@@ -25,7 +25,7 @@
 
 		<br />
 		<ul>
-			<li>Nate Abele, your humble speaker</li>
+			<li>Phuong Pham, your humble speaker</li>
 			<li>Lead developer + co-founder, Lithium</li>
 			<li>Former lead developer, CakePHP</li>
 			<li><a href="http://twitter.com/nateabele">Twitter: @nateabele</a></li>
