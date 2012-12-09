@@ -8,9 +8,7 @@
 		<h1>Phuong PHAM's resume</h1>
 		<h3 class="subtitle">
 			best view with
-			<!-- <span class="lithium">Lithium</span> -->
 			Presentation Mode in Chrome.
-			<!-- <span class="angular">Angular<span class="suffix">JS</span></span> -->
 		</h3>
 	</section>
 

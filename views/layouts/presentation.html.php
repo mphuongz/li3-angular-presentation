@@ -2,7 +2,7 @@
 <html ng-app="demo">
 <head>
 	<?=$this->html->charset(); ?>
-	<title>Resource-Oriented Applications with AngularJS and Lithium</title>
+	<title>Phuong Pham&#x27;s resume</title>
 	<?=$this->html->style(array(
 		'oswald',
 		'reveal.js/reveal',
