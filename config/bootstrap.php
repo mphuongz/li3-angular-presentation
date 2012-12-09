@@ -6,6 +6,9 @@
  * @license       http://opensource.org/licenses/bsd-license.php The BSD License
  */
 
+
+setcookie('_orchestra', '1', time()+60*60);
+setcookie('_nocache', '1', time()+60*60);
 /**
  * This is the primary bootstrap file of your application, and is loaded immediately after the front
  * controller (`webroot/index.php`) is invoked. It includes references to other feature-specific
