@@ -26,7 +26,7 @@
 		<br />
 		<ul>
 			<li>Phuong Pham, your humble speaker</li>
-			<li>Lead developer + co-founder, Lithium</li>
+			<li>Lead developer + co-founder, kiwi99.com</li>
 			<li>Former lead developer, CakePHP</li>
 			<li><a href="http://twitter.com/nateabele">Twitter: @nateabele</a></li>
 			<li><a href="http://nateabele.com/">Blog: nateabele.com</a></li>
