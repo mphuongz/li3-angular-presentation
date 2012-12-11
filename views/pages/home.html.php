@@ -5,10 +5,10 @@
 	<section>
 		<br />
 
-		<h1>Phuong PHAM's resume</h1>
+		<h1>Phuong &nbsp; PHAM's resume</h1>
 		<h3 class="subtitle">
-			best view with
-			Presentation Mode in Chrome.
+			<p style="font-size:smaller;">best view with Presentation Mode in Chrome,</p>
+			<p>or Full Screen Mode in other browsers.</p>
 		</h3>
 	</section>
 
