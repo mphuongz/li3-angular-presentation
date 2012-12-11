@@ -68,6 +68,10 @@
 	</section>
 
 	<section>
+		<h2 class="leader">Professional Experience:</h2>
+	</section>
+
+	<section>
 		<h3 class="exp">Experience</h3>
 		<h2>Tan Hai Long Hotel Group</h2>
 
@@ -194,6 +198,10 @@
 			<li>Horizontal scaling web application as well as its database</li>
 			<li>Use Version Control and Continuous Integration as a practice to deploy web applications in the cloud.</li>
 		</ul>
+	</section>
+
+	<section>
+		<h2 class="leader">Thanks / Q &amp; A</h2>
 	</section>
 
 
