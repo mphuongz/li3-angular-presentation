@@ -41,8 +41,8 @@ use li3_resources\net\http\Resources;
  * @see lithium\net\http\Router
  */
 Dispatcher::applyFilter('run', function($self, $params, $chain) {
-	Environment::set($params['request']);
-
+	// Environment::set($params['request']);
+	Environment::set('production');
 	foreach (array_reverse(Libraries::get()) as $name => $config) {
 		if ($name === 'lithium') {
 			continue;
