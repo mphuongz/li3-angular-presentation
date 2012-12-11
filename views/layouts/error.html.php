@@ -16,8 +16,7 @@
 <html>
 <head>
 	<?php echo $this->html->charset(); ?>
-	<title>Unhandled exception</title>
-	<?php echo $this->html->style(array('/li3b_core/css/debug', '/li3b_core/css/lithium')); ?>
+	<title>404</title>
 	<?php echo $this->scripts(); ?>
 	<?php echo $this->html->link('Icon', null, array('type' => 'icon')); ?>
 </head>
