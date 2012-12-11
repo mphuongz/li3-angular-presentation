@@ -1,4 +1,4 @@
-<!-- Empty ul for parseable jQuery -->
+
 <ul style="display: none;"></ul>
 
 <div class="slides">
@@ -21,6 +21,7 @@
 
 	<section>
 		<h2>Objective</h2>
+		<br />
 		<ul>
 			<li>Competent in teamwork, extensive experience in working as part of a multidisciplinary group.</li>
 			<li>Capable of planning projects from start to finish and solving the problems independently.</li>
@@ -52,17 +53,17 @@
 	</section>
 
 	<section>
-		<h2>Characteristic</h2>
+		<h2>Characteristics</h2>
 
 		<br />
 		<ul>
 			<li>Develope on a Macitosh</li>
-			<li>Experience in scaling and tuning web application</li>
-			<li>Speak english, german as well as vietnamese</li>
+			<li>Experience in scaling and tuning large web application</li>
+			<li>Speak English, German as well as Vietnamese</li>
 			<li>Ultilize cloud computing service</li>
 			<li>VirtualBox + Vagrant</li>
-			<li>Code Ignitor, Cake PHP, Kohana, Zend</li>
-			<li>Husband, dad, meditator, audiophile</li>			
+			<li>Code Ignitor, Cake PHP, Kohana and Zend</li>
+			<li>Husband, dad, meditator and audiophile</li>			
 		</ul>
 	</section>
 
@@ -89,32 +90,16 @@
 
 		<br />
 		<ul>
-			<li>Founded on March 2011</li>
 			<li>Supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
 			<li>Following the concept: "Multi-shops One Checkout!"</li>
-			<li>Effective way to enhance brand marketing online</li>
-			<li>Headquarters: 2-4 Alexandre De Rhodes, District 1</li>
+			<li>Provides customers with a very unique online shopping mall.</li>
+			<li>Offers those shops the whole services to their end customers including marketing, logistics, studio shooting and cash collection.</li>			
 		</ul>
 		
 		
 		<div class="date">
 			Jan. 2011 &#8212; Jun. 2012
 		</div>
-	</section>
-
-	<section>
-		<h3 class="exp">Experience</h3>		
-		<h2>Kiwi99 - Vietnam (cont.)</h2>
-
-		<br />
-		<ul>
-			<li>Provides customers with a very unique online shopping mall.</li>
-			<li>Offers those shops the whole services to their end customers including marketing, logistics, studio shooting and cash collection.</li>
-		</ul>
-		
-		<div class="date">
-			Jan. 2011 &#8212; Jun. 2012
-		</div>		
 	</section>
 
 	<section>
@@ -158,7 +143,7 @@
 		<br />
 		<ul>
 			<li>A community college located in Auburn, Washington, USA.</li>
-			<li>Created an online exchange textbooks for more than tens of thousands of students and maintain the system every semester.</li>
+			<li>Created an online exchange textbooks for more than ten of thousands of students and maintain the system every semester.</li>
 			<li>Handles listings, ratings and trading transactions.</li>
 		</ul>
 		
@@ -203,11 +188,11 @@
 
 		<br />
 		<ul>
-			<li>HTML 5 with AngularJS</li>
+			<li>HTML 5 with AngularJS and LESS</li>
 			<li>REST and HTTP Resources Representations</li>
-			<li>Test Driven Development with Agile Methology</li>
+			<li>Test Driven Development with Agile Methodology</li>
 			<li>Horizontal scaling web application as well as its database</li>
-			<li>Use Git to deploy PHP applications to a cloud based plattform</li>
+			<li>Use Version Control and Continuous Integration as a practice to deploy web applications in the cloud.</li>
 		</ul>
 	</section>
 
