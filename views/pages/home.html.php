@@ -94,10 +94,10 @@
 
 		<br />
 		<ul>
-			<li>Supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
 			<li>Following the concept: "Multi-shops One Checkout!"</li>
-			<li>Provides customers with a very unique online shopping mall.</li>
+			<li>Provides customers with a unique online shopping mall.</li>
 			<li>Offers those shops the whole services to their end customers including marketing, logistics, studio shooting and cash collection.</li>			
+			<li>Built on the cloud with PHP and MongoDB, supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
 		</ul>
 		
 		
@@ -113,7 +113,8 @@
 		<br />
 		<ul>
 			<li>A scandinavia multi-brand online shop where you can buy top brand clothing for the whole family.</li>
-			<li>Created a large profitability data warehouse using PHP and MongoDB which performed detailed revenue expense calculations and data extractions for more than millions of customer accounts, including checking and savings accounts, credit cards, stocking schedule and payment refund.
+			<li>Created a large profitability data warehouse which performed detailed revenue expense calculations and data extractions for more than millions of customer accounts.</li>
+			<li>Included: checking and savings accounts, credit cards, stocking schedule and payment refund.
 			 </li>
 		</ul>
 		
