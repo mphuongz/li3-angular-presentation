@@ -109,7 +109,7 @@
 
 	<section>
 		<h3 class="exp">Experience</h3>		
-		<h2>Bootz - Denmark</h2>
+		<h2>Bootz - Sweden</h2>
 
 		<br />
 		<ul>
