@@ -26,7 +26,7 @@
 			<li>Competent in teamwork, extensive experience in working as part of a multidisciplinary group.</li>
 			<li>Capable of planning projects from start to finish and solving problems independently.</li>
 			<li>Solid understanding of usability, aesthetics, interactivity and communication issues involved in the design process.</li>
-			<li>Acquired strong leadership experience while year of working oversea.</li>
+			<li>Acquired strong leadership experience through years of working oversea.</li>
 		</ul>
 	</section>
 
