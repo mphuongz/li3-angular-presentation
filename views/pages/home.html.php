@@ -20,12 +20,13 @@
 
 
 	<section>
-		<h2>Objective</h2>
+		<h2>Characteristics</h2>
 		<br />
 		<ul>
 			<li>Competent in teamwork, extensive experience in working as part of a multidisciplinary group.</li>
-			<li>Capable of planning projects from start to finish and solving the problems independently.</li>
+			<li>Capable of planning projects from start to finish and solving problems independently.</li>
 			<li>Solid understanding of usability, aesthetics, interactivity and communication issues involved in the design process.</li>
+			<li>Acquired strong leadership experience while year of working oversea.</li>
 		</ul>
 	</section>
 
@@ -53,7 +54,7 @@
 	</section>
 
 	<section>
-		<h2>Characteristics</h2>
+		<h2>Core competencies</h2>
 
 		<br />
 		<ul>
@@ -62,7 +63,7 @@
 			<li>Speak English, German as well as Vietnamese</li>
 			<li>Ultilize cloud computing service</li>
 			<li>VirtualBox + Vagrant</li>
-			<li>Code Ignitor, Cake PHP, Kohana and Zend</li>
+			<li>Code Igniter, Cake PHP, Kohana and Zend</li>
 			<li>Husband, dad, meditator and audiophile</li>			
 		</ul>
 	</section>
