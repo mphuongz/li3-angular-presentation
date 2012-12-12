@@ -58,7 +58,7 @@
 
 		<br />
 		<ul>
-			<li>Develope on a Macitosh</li>
+			<li>Develop on a Macitosh</li>
 			<li>Experience in scaling and tuning large web application</li>
 			<li>Speak English, German as well as Vietnamese</li>
 			<li>Ultilize cloud computing service</li>
