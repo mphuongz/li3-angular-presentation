@@ -7,7 +7,7 @@
 
 		<h1>Phuong &nbsp; PHAM's resume</h1>
 		<h3 class="subtitle">
-			<p style="font-size:smaller;">best view with Presentation Mode in Chrome,</p>
+			<p style="font-size:smaller;">best view in Chrome's Presentation Mode,</p>
 			<p>or Full Screen Mode in other browsers.</p>
 		</h3>
 	</section>
@@ -38,8 +38,8 @@
 		<ul>
 			<li>It's Phuong Pham, your humble candidate</li>
 			<li>Lead developer + CTO, kiwi99.com</li>
-			<li>Former lead developer, <a href="http://www.bootz.com">bootz.com</a></li>
-			
+			<li>Former lead developer at <a href="http://www.bootz.com">bootz.com</a></li>
+			<li>Husband, dad, meditator and audiophile</li>			
 			<li><a href="mailto:phuong.pham@kiwi99.com">Email me: @phuong.pham</a></li>
 			<li><a href="skype:wwatdez?chat">Skype me: @wwatdez</a></li>
 			<li>Talk to me: +84 932 776 25X <br />(with X is the largest one digit prime number)</li>			
@@ -58,13 +58,12 @@
 
 		<br />
 		<ul>
-			<li>Develop on a Macitosh</li>
+			<li>Automated continuous integration equipped with test suite</li>
 			<li>Experience in scaling and tuning large web application</li>
-			<li>Speak English, German as well as Vietnamese</li>
-			<li>Ultilize cloud computing service</li>
-			<li>VirtualBox + Vagrant</li>
-			<li>Code Igniter, Cake PHP, Kohana and Zend</li>
-			<li>Husband, dad, meditator and audiophile</li>			
+			<li>Distributed Memcached with NoSQL data storage</li>
+			<li>Ultilize cloud computing service, VirtualBox + Vagrant</li>
+			<li>Code Igniter, Cake PHP, Symfony2 and Zend</li>
+			<li>Speak English, German as well as Vietnamese</li>						
 		</ul>
 	</section>
 
@@ -74,8 +73,25 @@
 
 	<section>
 		<h3 class="exp">Experience</h3>
-		<h2>Tan Hai Long Hotel Group</h2>
+		<h2>Careerlink Vietnam</h2>
 
+		<br />
+		<ul>
+			<li>One of Vietnam’s most successful recruitment agencie.</li>
+			<li>Decides the technical approach and the identified work components and their sizes, estimates the effort and skill-level required for each work component needed to achieve project goals.</li>
+			<li>Schedule Tracking Monitors the daily activities of the team member and identifies the deviation with assigned task in WBS Holds weekly meetings internally.</li>
+		</ul>
+		
+		<div class="date">
+			June. 2012 &#8212; Present
+		</div>
+		
+	</section>
+
+	<section>
+		<h3 class="exp">Experience</h3>
+		<h2>Tan Hai Long Hotel Group</h2>
+		<h5>(Contracted Project)</h5>
 		<br />
 		<ul>
 			<li>A hotel chain with high class accommodation and international professional service.</li>
@@ -83,7 +99,7 @@
 		</ul>
 		
 		<div class="date">
-			Jul. 2012 &#8212; Nov. 2012
+			April. 2012 &#8212; July. 2012
 		</div>
 		
 	</section>
@@ -96,14 +112,14 @@
 		<br />
 		<ul>
 			<li>Following the concept: "Multi-shops One Checkout!"</li>
-			<li>Provides customers with a unique online shopping mall.</li>
 			<li>Offers those shops the whole services to their end customers including marketing, logistics, studio shooting and cash collection.</li>			
-			<li>Built on the cloud with PHP and MongoDB, supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
+			<li>Coordinate communication between staff and third parties acting on behalf of the client Facilitates team and client meetings effectively. Holds regular status meetings with project team.</li>
+			<li>Funded by Eastspring Investments Fund Management, a member of Prudential UK and supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
 		</ul>
 		
 		
 		<div class="date">
-			Jan. 2011 &#8212; Jun. 2012
+			Jan. 2011 &#8212; May. 2012
 		</div>
 	</section>
 
@@ -195,10 +211,11 @@
 		<br />
 		<ul>
 			<li>HTML 5 with AngularJS and LESS</li>
-			<li>REST and HTTP Resources Representations</li>
-			<li>Test Driven Development with Agile Methodology</li>
+			<li>Representational Sate Transfer API</li>
+			<li>Test Driven Development with Agile Methodology and Git flow</li>
 			<li>Horizontal scaling web application as well as its database</li>
-			<li>Use Version Control and Continuous Integration as a practice to deploy web applications in the cloud.</li>
+			<li>Solid OO design-pattern experience</li>
+			<li>Strong Linux server management skills</li>
 		</ul>
 	</section>
 
