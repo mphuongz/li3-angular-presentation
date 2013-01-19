@@ -83,7 +83,7 @@
 		</ul>
 		
 		<div class="date">
-			June. 2012 &#8212; Present
+			Jul. 2012 &#8212; Present
 		</div>
 		
 	</section>
@@ -99,7 +99,7 @@
 		</ul>
 		
 		<div class="date">
-			April. 2012 &#8212; July. 2012
+			Apr. 2012 &#8212; Jul. 2012
 		</div>
 		
 	</section>
@@ -114,12 +114,12 @@
 			<li>Following the concept: "Multi-shops One Checkout!"</li>
 			<li>Offers those shops the whole services to their end customers including marketing, logistics, studio shooting and cash collection.</li>			
 			<li>Coordinate communication between staff and third parties acting on behalf of the client Facilitates team and client meetings effectively. Holds regular status meetings with project team.</li>
-			<li>Funded by Eastspring Investments Fund Management, a member of Prudential UK and supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
+			<li>Funded by Eastspring Investments Fund Management, Prudential UK and supported by <a href="http://bssc.vn/">BSSC.vn</a></li>
 		</ul>
 		
 		
 		<div class="date">
-			Jan. 2011 &#8212; May. 2012
+			Jan. 2011 &#8212; May 2012
 		</div>
 	</section>
 
@@ -136,7 +136,7 @@
 		</ul>
 		
 		<div class="date">
-			May. 2008 &#8212; Dec. 2010
+			May 2008 &#8212; Dec. 2010
 		</div>
 		
 	</section>
